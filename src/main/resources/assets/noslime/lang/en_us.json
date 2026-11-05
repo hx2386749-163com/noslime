@@ -1,0 +1,4 @@
+{
+  "gamerule.doSlimeSpawning": "Slimes can spawn",
+  "gamerule.doSlimeSpawning.description": "When false, no new slimes can enter the world (natural spawns, spawners, spawn eggs, /summon and slime splitting). Slimes already saved in the world are kept. Default: true."
+}
