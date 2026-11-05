@@ -1,0 +1,4 @@
+{
+  "gamerule.doSlimeSpawning": "史莱姆可以生成",
+  "gamerule.doSlimeSpawning.description": "设为 false 时，任何新史莱姆都无法进入世界（自然生成、刷怪笼、刷怪蛋、/summon 以及大史莱姆分裂）。存档中已有的史莱姆会保留。默认值：true。"
+}
